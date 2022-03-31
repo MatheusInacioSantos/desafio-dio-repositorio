@@ -23,9 +23,9 @@ ____
 
 - [x] Criando seu primeiro repositório no GitHub para compartilhar seu progresso
 - [ ] Mentoria #2: Como ser o próximo contratado da AMDOCS
-- [ ] Linux: Introdução ao sistema operacional e terminal
-- [ ] Linux: Diretórios e comandos essenciais
-- [ ] Linux: Fundamentos de redes e comandos avançados
+- [x] Linux: Introdução ao sistema operacional e terminal
+- [x] Linux: Diretórios e comandos essenciais
+- [x] Linux: Fundamentos de redes e comandos avançados
 - [ ] Linux: Gerenciamento de pacotes
 - [ ] Dominando IDEs Java
 - [ ] Introdução ao ecossistema e documentação java
