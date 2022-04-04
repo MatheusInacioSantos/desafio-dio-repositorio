@@ -26,8 +26,8 @@ ____
 - [x] Linux: Introdução ao sistema operacional e terminal
 - [x] Linux: Diretórios e comandos essenciais
 - [x] Linux: Fundamentos de redes e comandos avançados
-- [ ] Linux: Gerenciamento de pacotes
-- [ ] Dominando IDEs Java
+- [x] Linux: Gerenciamento de pacotes
+- [x] Dominando IDEs Java
 - [ ] Introdução ao ecossistema e documentação java
 - [ ] Configurando ambiente de desenvolvimento java no linux
 - [ ] Variáveis, tipos de dados e operadores matemáticos em java
